@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on fullstack projects(SERN/MERN)
 - 📫 lets connect ->linkedIn:https://www.linkedin.com/in/kelvin-nzioka-956405263/
                       twitter:https://www.twitter.com/kelvinnziokak  
-                                            chess:https://chess.com/algomasterr
+                                           
                      
